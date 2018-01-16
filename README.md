@@ -11,3 +11,6 @@ A silver solution for https://www.kaggle.com/c/favorita-grocery-sales-forecastin
 - item和store类别特征的onehot编码和种类计数（参考了Porto比赛第二名的解决方案）
 
 最后，看大家都在说可能会有大的shake up出现，为以防万一，训练模型时采用的是4个lightgbm种子融合的方法（还是参考了Porto比赛第二名的解决方案），private榜还是很稳的~
+
+kaggle讨论区：https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47537
+kaggle kernel区：https://www.kaggle.com/deepdreamer/a-silver-solution-33rd
